@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668279913310",
+    "project_id": "p-k-123-construction",
+    "storage_bucket": "p-k-123-construction.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668279913310:android:c05817667906a0857dedcf",
+        "android_client_info": {
+          "package_name": "com.example.pk_manu_constapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcjRGGVr1CEzIrzCiF_KhFvdgTHjxtcDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
