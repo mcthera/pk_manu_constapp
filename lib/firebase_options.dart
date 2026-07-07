@@ -57,7 +57,6 @@ class DefaultFirebaseOptions {
     projectId: 'p-k-123-construction',
     storageBucket: 'p-k-123-construction.firebasestorage.app',
   );
-
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyB8SkDsdhB71dRnRV5jvt2y-CFs8iAO0zI',
     appId: '1:668279913310:ios:248fbe31290583cd7dedcf',
@@ -66,7 +65,6 @@ class DefaultFirebaseOptions {
     storageBucket: 'p-k-123-construction.firebasestorage.app',
     iosBundleId: 'com.example.pkManuConstapp',
   );
-
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyB8SkDsdhB71dRnRV5jvt2y-CFs8iAO0zI',
     appId: '1:668279913310:ios:248fbe31290583cd7dedcf',
